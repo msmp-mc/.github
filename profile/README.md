@@ -1,12 +1,9 @@
 ## MSMP 👋
 
-<!--
+What is the MSMP? Watch this [video](https://youtube.com/watch?v=frojY_kjBLE) in French!
 
-**Here are some ideas to get you started:**
+MSMP is for Maze SMP.
+It combines survival, PvPvE, Semi-RP and maze!
+The goal of the players is to out of the labyrinth.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are all French but we have decided to speak English, so everyone can understand us!
